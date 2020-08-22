@@ -1,0 +1,4 @@
+CProgram FilesJavajdk-14.0.1binjava.exe -javaagentCUsersOSushentsova.LAPTOP-RLQHCN06AppDataLocalJetBrainsToolboxappsIDEA-Cch-0202.6397.94libidea_rt.jar=52401CUsersOSushentsova.LAPTOP-RLQHCN06AppDataLocalJetBrainsToolboxappsIDEA-Cch-0202.6397.94bin -Dfile.encoding=UTF-8 -classpath CUsersOSushentsova.LAPTOP-RLQHCN06IdeaProjectsMoneyTransferoutproductionMoneyTransfer Main
+-1794967296
+
+Process finished with exit code 0
